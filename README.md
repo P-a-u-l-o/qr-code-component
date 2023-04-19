@@ -22,7 +22,7 @@ This was an exercise to practice HTML and CSS techniques, and everything you'll 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/P-a-u-l-o/qr-code-component)
+- Solution URL: [(https://github.com/P-a-u-l-o/qr-code-component)]
 - Live Site URL: [Add live site URL here](https://p-a-u-l-o.github.io/qr-code-component/)
 
 
