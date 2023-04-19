@@ -22,8 +22,8 @@ This was an exercise to practice HTML and CSS techniques, and everything you'll 
 
 ### Links
 
-[This project](https://github.com/P-a-u-l-o/qr-code-component)
-[See it working](https://p-a-u-l-o.github.io/qr-code-component/)
+-  [This project](https://github.com/P-a-u-l-o/qr-code-component)
+-  [See it working](https://p-a-u-l-o.github.io/qr-code-component/)
 
 
 ### Built with
